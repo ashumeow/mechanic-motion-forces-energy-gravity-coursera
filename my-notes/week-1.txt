@@ -1,0 +1,103 @@
+Clouds of Magellan = galaxy containing billions of stars
+
+Democritus and Ajivika
+
+Bottle of water into 4 glasses of equal amount, 
+One of the glass divided into 4 equal parts,
+One of those part divided into 4 equal parts.
+How many times can this process be repeated bearing atleast 1 molecule in each portion?
+Between 20 and 50
+
+Human brain uses binary signals with typical voltages of approximately 0.1 volt which is rougly between 0.03V and 0.3V
+
+1 year = 365.24 days
+=> 31, 556, 736 seconds
+
+14 billion years => 14 x 10^9
+=> 4.417943e+17 seconds
+=> 4.4 x 10^17 seconds for the age of the universe
+
+If it's 13.8 billion years, then the answer comes as 4.35 x 10^17 seconds
+
+Speed = Distance / Time
+
+1 meters per second = 3.6 kilometers per hour
+
+World record for solar cars without batteries => 88.7 kilometers per hour
+
+1 mile = 1.60934 kilometers
+
+=> 88.7 / 1.60934 => 55.1 miles per hour
+
+1 inch = 2.54 centimetres
+
+Speed of the Earth => 30 kilometers per second => 460 meters per second
+=> 460 x 3.6 => 1,656 kilometers per hour
+
+radius of the earth = 6.371 x 10^6 meters
+
+Nautical miles = 60 miles
+
+Speed of light = 2.99792458 x 10^8 meters per second
+
+Speed of the Earth = distance travelled in 1 orbit / time taken for 1 orbit
+=> 2 x PI x r / 1 year
+r = 8.3 mins x 60sec x speed of light / 1000 meters
+1 year = 365.24 x 24 hours
+=> 1,10,000 kilometers per hour
+
+Scalar : Example- Speed
+Vector : Example- Velocity
+A vector can not be equal to a scalar.
+Two vertical lines equals to the magnitude of the vector.
+The magnitude of the vector is indeed a scalar.
+The magnitude of the velocity must have distance of unit time, which is a scalar.
+Whereas the east direction is a displacement, which is a vector.
+Scalar has magnitudes of sides, but no directions.
+But, vector has both magnitude and direction.
+
+If the directions of vector A is 5 meters north and vector B is 5 meters east, then their magnitude will be 1. (i.e. unit vectors)
+
+If the directions of vector A is 5 meters north and vector B is 5 meters north-east with the north-east displacement of A + B, then the magnitude of the displacement is the square root of A square + B square => square root ((5^2) + (5^2)) => 10
+
+A - B => A + (-B)
+
+number of grains = volume of sand / volume of grain
+=> length x breadth x depth / (size)^3
+=> 400m x 40m x 3m / (3 x 10^-4 m)^3
+=> 2 x 10^15 => 10^15
+
+Which one is greater?
+The number of grains of sand on the beach? (or)
+The number of atoms in each grain of sand?
+It is the number of grains of sand on the beach
+
+number of cells in one human = volume of human / volume of cell
+=> mass of human / density of water x volumne of cell
+=> 100 kg / 1000 kg per meter cube x (10^-5 m)^3
+=> 10^14
+
+number of atoms = mass of grain / mass of atom
+=> volume x density / mass of atom
+=> [(2 x 10^-11 m^3) x (2600 kg m^-3)] x [6 x 10^23] / 0.02 kg
+=> 10^18
+
+radius = diameter / 2
+
+volume of a cylinder = PI x height x radius^2
+
+Density of a cylinder = mass / volume
+
+1 inch = 25.4 mm or 0.0254 m
+1 foot = 12 inches
+1 mile = 5,280 feet
+1 meter = 1000 mm
+1 centimeter = 0.01 m or 10 mm
+5 feet 3 inches = 63 inches or 1600mm or 160 cm
+
+1 horsepower = 745.7 watts
+1 watt = 0.01 kilowatt
+
+Atomic volume occupied by nucleus = volume of nucleus / volume of atom
+=> [4 PI (10^-13)^3] / [4 PI (10^-8)^3]
+=> 10^-15
