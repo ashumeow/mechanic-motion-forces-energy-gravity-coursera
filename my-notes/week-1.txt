@@ -58,7 +58,9 @@ But, vector has both magnitude and direction.
 
 If the directions of vector A is 5 meters north and vector B is 5 meters east, then their magnitude will be 1. (i.e. unit vectors)
 
-If the directions of vector A is 5 meters north and vector B is 5 meters north-east with the north-east displacement of A + B, then the magnitude of the displacement is the square root of A square + B square => square root ((5^2) + (5^2)) => 10
+If the directions of vector A is 5 meters north and vector B is 5 meters north-east with north-east displacement of A + B, 
+then the magnitude of the displacement is the square root of A square + B square 
+=> square root ((5^2) + (5^2)) => 10
 
 A - B => A + (-B)
 
