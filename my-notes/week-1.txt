@@ -74,9 +74,11 @@ The number of grains of sand on the beach? (or)
 The number of atoms in each grain of sand?
 It is the number of grains of sand on the beach
 
-number of cells in one human = volume of human / volume of cell
-=> mass of human / density of water x volumne of cell
-=> 100 kg / 1000 kg per meter cube x (10^-5 m)^3
+number of cells in human = volume of human / volume of cell
+=> mass of human / (density of water x volume of cell)
+=> 100 kg / 1000 kg m^-3 x (10^-5 m)^3
+=> 1 kg / 10 kg m^-3 x 10^-15 m^3
+=> 1 kg / 10^-14 m^3
 => 10^14
 
 number of atoms = mass of grain / mass of atom
