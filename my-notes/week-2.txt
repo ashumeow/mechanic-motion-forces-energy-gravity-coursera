@@ -12,3 +12,30 @@ Problem:
 400 metres running finished in 49.11 seconds.
 What is average velocity (Vav)?
 Magnitude of the average velocity (Vav) => ???
+401 m / 49.11 sec => 8.2 m/s
+
+Any change in velocity despite speed remaining as constant is acceleration.
+
+Motion of straight line:
+Average velocity (Vav) = Displacement (x) / Time (t)
+
+Average velocity for small interval = Delta x / Delta t
+
+Problem:
+What is magnitude of average velocity between t=0 and t=1.6 ?
+Time in x-axis
+Displacement in y-axis
+Solution:
+Vav = x - x0 / t
+=> [x(1.6) - x(0.0)] cm / (1.6-0.0) sec
+=> 105 - 30 cm / 1.6 sec => 47 cm
+v(t) is the slope of x(t)
+x = x0 + vt
+
+Xp = Xp0 + Vp t
+Xk = Xk0 + Vk t
+t = (Xk0 - Xp0) / (Vp0 - Vk0)
+
+If 0.50hours delay from M and J is 0.50 hours ahead
+t = [(Vm) / (Vm - Vj)] x 0.5 hours
+Meeting point = Vj x t
