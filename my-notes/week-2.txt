@@ -1,0 +1,14 @@
+Recalling on scalars and vectors from week-1
+Vectors:
+(i) magnitude and direction
+(ii) displacement
+(iii) velocity
+Scalars:
+(i) Magnitude
+(ii) distance
+(iii) speed
+
+Problem:
+400 metres running finished in 49.11 seconds.
+What is average velocity (Vav)?
+Magnitude of the average velocity (Vav) => ???
