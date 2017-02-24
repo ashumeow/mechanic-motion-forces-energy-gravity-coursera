@@ -39,3 +39,14 @@ t = (Xk0 - Xp0) / (Vp0 - Vk0)
 If 0.50hours delay from M and J is 0.50 hours ahead
 t = [(Vm) / (Vm - Vj)] x 0.5 hours
 Meeting point = Vj x t
+
+Slope = Rise / Run
+The slighter accleration occurs, the faster the speed increases.
+
+Acceleration is defined as the rate of change of velocity.
+
+Units of velocity = m s^-1/s = m s^-2
+
+constant acceleration 
+Velocity, v = v0 + at
+Initial displacement, x = x0 + v0 t + 1/2 a t^2
