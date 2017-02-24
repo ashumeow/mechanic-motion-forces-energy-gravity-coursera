@@ -61,3 +61,18 @@ x = x0 + v0 t + 1/2 a t^2 --- (2)
 Substituting (1) in (2),
 x - x0 = v0 x [[v-v0]/a] + a/2 [[v-v0]/a]^2
 2a(x-x0) = v^2 - v0^2 --- (3)
+
+Relative Motion
+V = Vf + V'
+where V = Vobject with respect to ground
+Vf = Vframe with respect to ground
+V' = Vobject with respect to frame
+
+Problem:
+Consider the following convention - north, south, east, west.
+Vf = velocity of moving frame with respect to ground
+V' = velocity of the object with respect to moving frame
+V = velocity of the object with respect to ground
+If Vf is the velocity of the wooden plate,
+then what is the approximate direction of Vf?
+Answer: West
