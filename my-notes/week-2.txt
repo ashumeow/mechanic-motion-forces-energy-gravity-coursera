@@ -50,3 +50,14 @@ Units of velocity = m s^-1/s = m s^-2
 constant acceleration 
 Velocity, v = v0 + at
 Initial displacement, x = x0 + v0 t + 1/2 a t^2
+
+Relating velocity, acceleration and displacement
+Problem:
+How far do you travel while you accelerate from 3.0 m s^-1 to 8.0 ms s^-1
+with constant acceleration a = 2.0 m s^-2?
+Given v, v0, a. Find (x - x0). Eliminate t.
+v = v0 + at => t = (v - v0)/a --- (1)
+x = x0 + v0 t + 1/2 a t^2 --- (2)
+Substituting (1) in (2),
+x - x0 = v0 x [[v-v0]/a] + a/2 [[v-v0]/a]^2
+2a(x-x0) = v^2 - v0^2 --- (3)
