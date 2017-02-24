@@ -1,0 +1,8 @@
+Using spreadsheets to do your arithmetic
+http://www.animations.physics.unsw.edu.au/sf/toolkits/spreadsheet_tutorial.html
+
+Constant acceleration
+http://www.animations.physics.unsw.edu.au/mechanics/chapter1_constantacceleration.html
+
+Uncertainties
+http://www.animations.physics.unsw.edu.au/sf/toolkits/uncertainties.html
