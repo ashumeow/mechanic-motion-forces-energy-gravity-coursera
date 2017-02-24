@@ -76,3 +76,15 @@ V = velocity of the object with respect to ground
 If Vf is the velocity of the wooden plate,
 then what is the approximate direction of Vf?
 Answer: West
+
+Problem:
+What approximate direction does the toy dinosaur head
+if she wants to go absolutely north over a plate travelling West?
+Solution:
+Using equation V= Vf + V'
+It is North-East
+
+Relative Displacement
+relative displacement, r = rf + r'
+change in relative displacement, delta r/delta t = [delta rf/delta t] + [delta r'/delta t]
+V = Vf + V'
